@@ -20,3 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 MIT
+[Patika](https://app.patika.dev/berkaytok58)
